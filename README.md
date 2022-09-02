@@ -12,7 +12,9 @@ CURRENT PROCESS:
 
 <img src="https://user-images.githubusercontent.com/110358483/185765333-ad6d5f32-a4e5-4665-a009-b447eec6558d.mp4" width=20% height=20%>
 
-<video src="https://user-images.githubusercontent.com/110358483/185765333-ad6d5f32-a4e5-4665-a009-b447eec6558d.mp4">
+
+<video src="https://user-images.githubusercontent.com/110358483/185765333-ad6d5f32-a4e5-4665-a009-b447eec6558d.mp4"></video>
+
 
 
 
