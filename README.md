@@ -1,9 +1,3 @@
-# SUMMARY:
-</br>
-I created this snake structure robot after getting fresh inspiration from this three-Link spatial cylinder cam mechanism (https://www.youtube.com/watch?v=vRnCQUViFRc). This mechanical action closely resembles how a snake moves. Since there is an increasing need for flexible, narrow robots that can carry out a variety of duties in unique situations, I started this project to develop a snake robot.
-
-
-
 # CURRENT PROCESS:
 
 ## 08/17: Version 1 of the design
@@ -39,16 +33,4 @@ https://user-images.githubusercontent.com/110358483/188029383-24ae2b19-3a20-4ce2
 ## 09/01: Version 3 of the design
 
 <img src="https://user-images.githubusercontent.com/110358483/188028534-f2151974-0614-4771-8b6d-cba20713c6c4.png" width=50% height=50%>
-
-UPDATE:
-I'm currently attempting to fix some 3D printing issues that I discovered with this barrel part. The solution is using various printing materials and utilizing Matlab to create an optimal curve (I haven't given up on this design yet). I created a brand-new "branch" to work on the control algorithm first as I awaited the print and design. (Check out my new branch)
-
-<img src="https://user-images.githubusercontent.com/110358483/189255607-7a5c9e6e-0fd2-43ff-9150-e03983ab6b8f.png" width=50% height=50%>
-
-link: https://github.com/jiayao09/Snake-robot/tree/Control-Algorithm
-
-
-https://user-images.githubusercontent.com/110358483/191558831-bdd703b5-2a7b-4fd5-a3f1-cc0d3432bb5c.mp4
-
-
 
