@@ -46,3 +46,9 @@ I'm currently attempting to fix some 3D printing issues that I discovered with t
 <img src="https://user-images.githubusercontent.com/110358483/189255607-7a5c9e6e-0fd2-43ff-9150-e03983ab6b8f.png" width=50% height=50%>
 
 link: https://github.com/jiayao09/Snake-robot/tree/Control-Algorithm
+
+
+https://user-images.githubusercontent.com/110358483/191558831-bdd703b5-2a7b-4fd5-a3f1-cc0d3432bb5c.mp4
+
+
+
