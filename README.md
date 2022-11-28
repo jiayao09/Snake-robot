@@ -12,7 +12,7 @@ This is a brief movie about snake muscle activity of rectilinear locomotion.  Vi
 https://user-images.githubusercontent.com/110358483/191566963-a4b19c0f-4722-4253-a8b3-55efeb799b81.mp4
 
 
-I think this structure can simulate the movement of the snake very well, but I am facing a problem that the range of his movement is too small. I am now considering to increase the longitudinal movement to increase the friction between the snake and the ground.Also consider combining version1 and version2 on this structure.
+I think this structure can simulate the movement of the snake very well, but I am facing a problem that the range of his movement is too small. I am now considering to increase the longitudinal movement to increase the friction between the snake and the ground. Also consider combining version 1 and version 2 on this structure.
 
 https://user-images.githubusercontent.com/110358483/204241232-5dcfed8a-c821-4b9e-80da-67c00ad07183.mp4
 
